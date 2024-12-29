@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+o projeto explorou a criação de uma música original chamada "Rare", feita inteiramente por uma inteligência artificial. A ideia foi gerar uma música com uma sonoridade para trilha sonora de jogos durante missões, A música foi criada usando "Boomy", uma ferramenta de IA especializada em criação musical, e o vídeo resultante foi editado com "Camtasia" para adicionar um visual ao projeto. O objetivo foi demonstrar como a IA pode ser utilizada não apenas para criar sons, mas também para enriquecer a experiência visual associada à música.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Boomy para criar música;
+Camtasia para editar vídeo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de criação começou com o uso do "Boomy", onde selecionei um estilo musical que representasse o estilo desejada para a música "Rare". A IA de Boomy foi alimentada com parâmetros sobre o ritmo, a melodia e a atmosfera da música, gerando uma composição. Após a geração da música, eu refinei os elementos, ajustando a estrutura e a progressão harmônica, de forma a criar algo único e fluido.
+
+Depois de ter a música pronta, utilizei "Camtasia" para criar um videoclipe. A música foi sincronizada com um conjunto de imagens e animações criadas complementando a estética da música. O vídeo foi editado com transições suaves e efeitos visuais para criar uma experiência sensorial imersiva, permitindo que a música e as imagens trabalhassem juntas para transmitir o conceito de "raridade" 
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Música no Boomy: Rare 2
+Clipe: Rare 2
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+A experiência de criar "Rare" como uma trilha sonora me fez perceber o quanto a música pode moldar a percepção de um jogo. A IA me deu uma base criativa, mas foi a visão de como ela se encaixaria no jogo que deu vida à música.

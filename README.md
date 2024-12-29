@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Trilha sonora rare
 
 ## 📒 Descrição
 o projeto explorou a criação de uma música original chamada "Rare", feita inteiramente por uma inteligência artificial. A ideia foi gerar uma música com uma sonoridade para trilha sonora de jogos durante missões, A música foi criada usando "Boomy", uma ferramenta de IA especializada em criação musical, e o vídeo resultante foi editado com "Camtasia" para adicionar um visual ao projeto. O objetivo foi demonstrar como a IA pode ser utilizada não apenas para criar sons, mas também para enriquecer a experiência visual associada à música.
